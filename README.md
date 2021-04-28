@@ -1,5 +1,5 @@
 # DataScience-Portfolio
-Repository containing portfolio of data science projects completed by me for academic and self learning purposes.
+DataScience Portfolio - Repository containing portfolio of data science projects completed by me for academic and self learning purposes.
 ## 1 . DataScience with Python 
 
 The task involves identifying which customer attributes relate significantly to customer default rates and to build a predictive model one can use to better classify potential customers as being ‘at-risk’. Used machine learning regression methods in Python for this task. 
