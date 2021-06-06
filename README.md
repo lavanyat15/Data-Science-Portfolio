@@ -22,7 +22,7 @@ Models : SVR, RandomForest Regressor, Linear Regression, Decision Tree Classifie
 
 ```
 
-## 2 . Data Analytics: Predicting Customer Preferences in R 
+### 2 . Data Analytics: Predicting Customer Preferences in R 
 [Link to Code](https://github.com/lavanyat15/DataScience-Code/tree/main/(C3)Predicting%20customer%20Pref%20in%20R)
 
 There are 2 parts to this course 
@@ -45,5 +45,28 @@ The skills practiced in this course represent current professional practice and 
 ```
 Tools: R, R Studio, Caret, ggplot2, Arules, Arulesviz, Plotly
 Models : GBM, Random Forest, C5.0, SVM, XGBoost
+
+```
+
+### 3 . Deep Analytics and Visualization 
+
+#### 3.1 Analyse energy consumption Data and predict future usage
+[Link to Code](https://github.com/lavanyat15/DataScience-Code/tree/main/(C4)Data%20Visualise%20and%20Analysis)
+
+Analyse sub-metered household data.
+Explore visualizations of the data and then build predictive models that will demonstrate how much power each area could use in a given 30 day period.
+Also provide the client with five energy savings suggestions based on insights that you glean from your analysis.
+
+The skills practiced in this course include:
+
+* Prepare to Analyse and Visualize Time series data
+* Decomposing seasonal Time series
+* Forecating Time Series using linear model
+* Forecasting Time series with Holt Winters model
+* Produce report to management
+
+```
+Tools: R, R Studio
+Models : TSLM, Holt Winters
 
 ```
