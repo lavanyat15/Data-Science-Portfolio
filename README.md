@@ -51,7 +51,7 @@ Models : GBM, Random Forest, C5.0, SVM, XGBoost
 ### 3 . Deep Analytics and Visualization 
 
 #### 3.1 Analyse energy consumption Data and predict future usage
-[Link to Code](https://github.com/lavanyat15/DataScience-Code/tree/main/(C4)Data%20Visualise%20and%20Analysis)
+[Link to Code](https://github.com/lavanyat15/DataScience-Code/tree/main/(C4)Data%20Visualise%20and%20Analysis/(T1)%20Visualise%20and%20Analyse%20Energy%20consumption)
 
 Analyse sub-metered household data.
 Explore visualizations of the data and then build predictive models that will demonstrate how much power each area could use in a given 30 day period.
